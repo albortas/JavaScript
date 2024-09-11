@@ -1,3 +1,0 @@
-Hola Mundo
-Comprovar si funciona, que 10 este al pie del github
-

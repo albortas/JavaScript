@@ -1,27 +1,27 @@
-let diaSemana = 8
+let diaSemana = 5
 
 switch(diaSemana){    
     case 1:
         console.log(`Lunes`);
-        break
+        break;
     case 2:
         console.log(`Martes`);
-        break
+        break;
     case 3:
         console.log(`Miercoles`)
-        break
+        break;
     case 4:
         console.log(`Jueves`)
-        break
+        break;
     case 5:
         console.log(`Viernes`)
-        break
+        break;
     case 6:
         console.log(`Sabado`)
-        break
+        break;
     case 7:
         console.log (`Domingo`)
-        break
+        break;
     default:
         console.log(`Dia Erronero ${diaSemana}`)
 }       

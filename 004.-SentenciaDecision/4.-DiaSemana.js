@@ -1,18 +1,18 @@
-let diaSemana = 8
+let diaSemana = 5
 
 if(diaSemana == 1)
-    console.log(`Lunes`)
+    console.log(`Lunes`);
 else if(diaSemana == 2)
-    console.log(`Martes`)
+    console.log(`Martes`);
 else if(diaSemana == 3)
-    console.log(`Miercoles`)
+    console.log(`Miercoles`);
 else if(diaSemana == 4)
-    console.log(`Jueves`)
+    console.log(`Jueves`);
 else if(diaSemana == 5)
-    console.log(`Viernes`)
+    console.log(`Viernes`);
 else if(diaSemana == 6)
-    console.log(`Sabado`)
+    console.log(`Sabado`);
 else if(diaSemana == 7)
-    console.log(`Domingo`)
+    console.log(`Domingo`);
 else
-    console.log(`Dia Erroneo ${diaSemana}`)
+    console.log(`Dia Erroneo ${diaSemana}`);
